@@ -1,6 +1,6 @@
 # SenSante
 
-Assistant de pre - diagnostic medical pour le Senegal .
+Assistant de pre-diagnostic medical pour le Senegal .
 
 ## Description
 
