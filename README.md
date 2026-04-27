@@ -23,3 +23,6 @@ Oumar KA -DUT2 INFO - ESP/UCAD
 ## Cours
 
 Intégration des modéles IA -Dr El Hadji Bassirou Touré
+
+#LAB 3 en cours
+
