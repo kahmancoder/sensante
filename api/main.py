@@ -30,6 +30,17 @@ app = FastAPI(
     version="0.2.0"
 )
 
+from fastapi.middleware.cors import CORSMiddleware
+
+# Autoriser les requetes depuis le frontend
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 import joblib
 import numpy as np
 
