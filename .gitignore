@@ -3,6 +3,8 @@
 __pycache__/
 *.pyc
 venv/
+
+# Clé API ( ne pas partager sur GitHub )
 .env
 # Modele ML ( trop gros pour GitHub )
 models/*.pkl
